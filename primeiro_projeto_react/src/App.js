@@ -14,3 +14,5 @@ function App() {
 }
 
 export default App;
+
+// ***** RODAR OS COMANDOS GIT's dentro da pasta_terminal: Z:\DS\15-React_entendendo_a_biblioteca>
