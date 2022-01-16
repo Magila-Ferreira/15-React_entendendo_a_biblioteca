@@ -17,10 +17,13 @@
 }
 .form-cadastro__submit {
     align-self: flex-end;
-    width: 30%;
+    width: 100px;
+    height: 30px;
+    margin-top: 5px;
     background-color: var(--secundaria);
     color: white;
     font-weight: 400;
+    border-radius: 5%;
 }
 .form-cadastro__submit:active {
     background-color: var(--secundaria-ativa);
