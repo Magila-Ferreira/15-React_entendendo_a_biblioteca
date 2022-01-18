@@ -38,3 +38,4 @@ export default App;
 
 // ***** RODAR O COMANDO "NPM SATART" dentro da pasta_terminal:
 // Z:\15-React_entendendo_a_biblioteca\primeiro_projeto_react
+
